@@ -1,0 +1,162 @@
+      <h3 class="section-title">ACCORDION TABS <hr/></h3>
+    <section id="accordion-tabs-container">
+      <div id="tabs">
+        <button class="tab-buttons" onclick="openTab(event, 'tab-one')">
+          Tab 1
+        </button>
+        <button class="tab-buttons" onclick="openTab(event, 'tab-two')">
+          Tab 2
+        </button>
+        <button class="tab-buttons" onclick="openTab(event, 'tab-three')">
+          Tab 3
+        </button>
+        <button class="tab-buttons" onclick="openTab(event, 'tab-four')">
+          Tab 4
+        </button>
+      </div>
+
+      <div id="tab-one" class="individual-tab-content">
+        <div class="tab-picture"></div>
+        <section class="tab-text">
+          <h3>Interdizzle</h3>
+          <p>Lorizzle yo pizzle sit cool, izzle adipiscing elit.
+             Nullam sapizzle velizzle, dang volutpizzle, hizzle ass,
+             gravida dang, shut the shizzle up. Pellentesque egizzle
+             tortor. Sed erizzle. Fusce uhuh ... yih! gizzle dapibus
+             turpis tempizzle for sure. Maurizzle pot izzle turpis.
+             Ghetto izzle tortor. Owned eleifend rhoncizzle nisi.
+             In hac yippiyo funky fresh da bomb. Mammasay mammasa
+             mamma oo sa dapibizzle. Curabitizzle tellizzle mammasay
+             mammasa mamma oo sa, pretizzle bizzle, mattizzle da bomb,
+             shut the shizzle up vitae, nunc. Yo dizzle. Integer fo
+             velit sizzle gizzle.</p>
+         </section>
+      </div>
+
+      <div id="tab-two" class="individual-tab-content">
+        <div class="tab-picture"></div>
+        <section class="tab-text">
+          <h3>Drank</h3>
+          <p>Fo shizzle izzle magna sizzle augue doggy. Aenean izzle est.
+            Yo shizznit gangster, izzle vitae, facilisizzle id, fo shizzle
+            my nizzle izzle, boom shackalack. Vestibulizzle ante da bomb
+            mammasay mammasa mamma oo sa in faucibus orci luctus crunk check
+            it out posuere gizzle Check it out; Ghetto dolizzle. Mah nizzle
+            stuff. Fo shizzle pharetra blandit quam. Fizzle rutrizzle aliquizzle
+            cool. Sed facilisizzle. The bizzle mah nizzle nulla, the bizzle eu,
+            scelerisque hizzle, blandizzle izzle, magna.</p>
+        </section>
+      </div>
+
+      <div id="tab-three" class="individual-tab-content">
+        <div class="tab-picture"></div>
+        <section class="tab-text">
+          <h3>Things yo</h3>
+          <p>Shizznit interdizzle. Suspendisse potenti. Maecenizzle nisl.
+            Etizzle bizzle fizzle, ullamcorpizzle quis, ullamcorper izzle,
+            scelerisque ghetto, doggy. Morbi own yo' neque. Ghetto pimpin'.
+            Things yo, nisl vitae fringilla yo mamma, fo shizzle mi phat ass,
+            sed izzle neque enizzle pizzle boom shackalack. Curabitizzle
+            consequat check out this gangster fo shizzle. Fusce bibendizzle
+            check out this nec libero. Shut the shizzle up placerat, metizzle
+            vel varius fo shizzle, lorem eros hizzle fo, eu luctizzle fo shizzle
+            fo shizzle sed owned.</p>
+        </section>
+      </div>
+
+      <div id="tab-four" class="individual-tab-content">
+        <div class="tab-picture"></div>
+        <section class="tab-text">
+          <h3>Ugh</h3>
+          <p>Shizznit interdizzle. Suspendisse potenti. Maecenizzle nisl.
+            Etizzle bizzle fizzle, ullamcorpizzle quis, ullamcorper izzle,
+            scelerisque ghetto, doggy. Morbi own yo' neque. Ghetto pimpin'.
+            Things yo, nisl vitae fringilla yo mamma, fo shizzle mi phat ass,
+            sed izzle neque enizzle pizzle boom shackalack. Curabitizzle
+            consequat check out this gangster fo shizzle. Fusce bibendizzle
+            check out this nec libero. Shut the shizzle up placerat, metizzle
+            vel varius fo shizzle, lorem eros hizzle fo, eu luctizzle fo shizzle
+            fo shizzle sed owned.</p>
+        </section>
+      </div>
+    </section>
+
+    <section id="accordion-tabs-container-small">
+      <div id="tabs-small">
+        <button class="tab-buttons" onclick="openTabSmall(event, 'tab-one-small')">
+          Tab 1
+        </button>
+        <div id="tab-one-small" class="individual-tab-content">
+          <div class="tab-picture"></div>
+          <section class="tab-text">
+            <h3>Interdizzle</h3>
+            <p>Lorizzle yo pizzle sit cool, izzle adipiscing elit.
+               Nullam sapizzle velizzle, dang volutpizzle, hizzle ass,
+               gravida dang, shut the shizzle up. Pellentesque egizzle
+               tortor. Sed erizzle. Fusce uhuh ... yih! gizzle dapibus
+               turpis tempizzle for sure. Maurizzle pot izzle turpis.
+               Ghetto izzle tortor. Owned eleifend rhoncizzle nisi.
+               In hac yippiyo funky fresh da bomb. Mammasay mammasa
+               mamma oo sa dapibizzle. Curabitizzle tellizzle mammasay
+               mammasa mamma oo sa, pretizzle bizzle, mattizzle da bomb,
+               shut the shizzle up vitae, nunc. Yo dizzle. Integer fo
+               velit sizzle gizzle.</p>
+           </section>
+        </div>
+        <button class="tab-buttons" onclick="openTabSmall(event, 'tab-two-small')">
+          Tab 2
+        </button>
+        <div id="tab-two-small" class="individual-tab-content">
+          <div class="tab-picture"></div>
+          <section class="tab-text">
+            <h3>Drank</h3>
+            <p>Fo shizzle izzle magna sizzle augue doggy. Aenean izzle est.
+              Yo shizznit gangster, izzle vitae, facilisizzle id, fo shizzle
+              my nizzle izzle, boom shackalack. Vestibulizzle ante da bomb
+              mammasay mammasa mamma oo sa in faucibus orci luctus crunk check
+              it out posuere gizzle Check it out; Ghetto dolizzle. Mah nizzle
+              stuff. Fo shizzle pharetra blandit quam. Fizzle rutrizzle aliquizzle
+              cool. Sed facilisizzle. The bizzle mah nizzle nulla, the bizzle eu,
+              scelerisque hizzle, blandizzle izzle, magna.</p>
+          </section>
+        </div>
+        <button class="tab-buttons" onclick="openTabSmall(event, 'tab-three-small')">
+          Tab 3
+        </button>
+        <div id="tab-three-small" class="individual-tab-content">
+          <div class="tab-picture"></div>
+          <section class="tab-text">
+            <h3>Things yo</h3>
+            <p>Shizznit interdizzle. Suspendisse potenti. Maecenizzle nisl.
+              Etizzle bizzle fizzle, ullamcorpizzle quis, ullamcorper izzle,
+              scelerisque ghetto, doggy. Morbi own yo' neque. Ghetto pimpin'.
+              Things yo, nisl vitae fringilla yo mamma, fo shizzle mi phat ass,
+              sed izzle neque enizzle pizzle boom shackalack. Curabitizzle
+              consequat check out this gangster fo shizzle. Fusce bibendizzle
+              check out this nec libero. Shut the shizzle up placerat, metizzle
+              vel varius fo shizzle, lorem eros hizzle fo, eu luctizzle fo shizzle
+              fo shizzle sed owned.</p>
+          </section>
+        </div>
+        <button class="tab-buttons" onclick="openTabSmall(event, 'tab-four-small')">
+          Tab 4
+        </button>
+        <div id="tab-four-small" class="individual-tab-content">
+          <div class="tab-picture"></div>
+          <section class="tab-text">
+            <h3>Ugh</h3>
+            <p>Shizznit interdizzle. Suspendisse potenti. Maecenizzle nisl.
+              Etizzle bizzle fizzle, ullamcorpizzle quis, ullamcorper izzle,
+              scelerisque ghetto, doggy. Morbi own yo' neque. Ghetto pimpin'.
+              Things yo, nisl vitae fringilla yo mamma, fo shizzle mi phat ass,
+              sed izzle neque enizzle pizzle boom shackalack. Curabitizzle
+              consequat check out this gangster fo shizzle. Fusce bibendizzle
+              check out this nec libero. Shut the shizzle up placerat, metizzle
+              vel varius fo shizzle, lorem eros hizzle fo, eu luctizzle fo shizzle
+              fo shizzle sed owned.</p>
+          </section>
+        </div>
+      </div>
+    </section>
+
+    <button id="accordion-tabs-view-code" class="view-code-button">VIEW CODE</button>

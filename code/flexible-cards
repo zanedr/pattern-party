@@ -1,0 +1,38 @@
+    <h3 class="section-title">FLEXIBLE CARDS<hr/></h3>
+    <section id="flexible-cards-container">
+      <section class="flexible-cards-row flexible-card-row-1 flexible-card">
+        <span class="flexible-card-two-thirds">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Gobble Gobble</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+        <span class="flexible-card-one-third flexible-card">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Blah Blah</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+      </section>
+      <section class="flexible-cards-row flexible-card-row-2">
+        <span class="flexible-card-one-third flexible-card">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Blah Blah</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+        <span class="flexible-card-one-third flexible-card">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Blah Blah</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+        <span class="flexible-card-one-third flexible-card">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Blah Blah</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+      </section>
+      <section class="flexible-cards-row flexible-card-row-3">
+        <span class="flexible-card-one-third flexible-card">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Blah Blah</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+        <span class="flexible-card-two-thirds">
+          <div class="flexible-card-top"><h4 class="flexible-card-top-text">Gobble Gobble</h4></div>
+          <div class="flexible-card-bottom"></div>
+        </span>
+      </section>
+    </section>
+     <a href="./code/flexible-cards"><button id="flexible-cards-view-code" class="view-code-button">VIEW CODE</button></a>

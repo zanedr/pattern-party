@@ -1,0 +1,18 @@
+   <h3 class="section-title">HEADER BAR <hr/></h3>
+    <section id="header-bar-container">
+      <div id="header-bar">
+        <div id="header-circle"></div>
+        <div id="header-nav-links">
+          <h4 class="nav-link">Navigation Link 1</h4>
+          <h4 class="nav-link">Navigation Link 2</h4>
+          <h4 class="nav-link">Navigation Link 3</h4>
+          <div class="header-bar-padding">
+            <span class="header-search-bar">
+              <p class='search-bar-text'>Search<p>
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+     <a href="./code/header"><button id="header-bar-view-code" class="view-code-button">VIEW CODE</button></a>
+ 
